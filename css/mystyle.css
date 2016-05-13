@@ -1,0 +1,139 @@
+.head{
+  background-color:blue;
+  margin: 10px 10px 20px 10px;
+}
+.h{
+  text-align: left;
+  font-size: 500%;
+}
+.na{
+  text-align: right;
+}
+.container{
+  text-align: right;
+}
+.column-left{ float: left;
+	width: 33%;
+	 }
+.column-right{ float: right; width: 33%; }
+.column-center{ display: inline-block; width: 33%; }
+.container{
+	background-color:auto;
+}
+.wrap{
+text-align: center;
+	background-color:auto;
+}
+.li{
+	display: inline;
+    padding-right: 20px;
+    font-size: 150%;
+}
+.c_tit-type1{
+  font-size: 200%;
+}
+ul{
+  text-decoration:
+}
+.fbox-media{
+	vertical-align: center;
+	height: 300px;
+	width: 300px;
+}
+.footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.cont {
+  width: 20%;
+  margin: auto
+}
+.hero-unit {
+    background-image:url('');
+    background-size:cover;
+    background-color: #EEEEEE;
+    height:500px;
+margin: 10px 10px 20px 10px;
+  }
+  .hero-unit {
+    background-image:url('../img/download (2).jpg');
+    background-size:cover;
+    background-color: #EEEEEE;
+    height:500px;
+
+  }
+.hero-unit h1 {
+    color: #FFFFFF;
+    font-size: 60px;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+.hero-unit h2 {
+    font-size: 25px;
+    color: #FFFFFF;
+    text-align: left;
+}
+  ul
+  {
+      font-family: Arial, Verdana;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+  }
+
+  ul li
+  {
+      display: block;
+      position: relative;
+      float: left;
+  }
+
+  li ul
+  {
+      display: none;
+  }
+
+  ul li a
+  {
+      display: inline;;
+      text-decoration: none;
+      color: #ffffff;
+      border-top: 1px solid #ffffff;
+      padding: 5px 15px 5px 15px;
+      background: #2C5463;
+      margin-left: 1px;
+      white-space: nowrap;
+  }
+
+  ul li a:hover
+  {
+      background: #617F8A;
+  }
+  li:hover ul
+  {
+      display: block;
+      position: absolute;
+  }
+
+  li:hover li
+  {
+      float: none;
+      font-size: 11px;
+  }
+
+  li:hover a
+  {
+      background: #617F8A;
+  }
+
+  li:hover li a:hover
+  {
+      background: #95A9B1;
+  }
+a{
+  float: right;
+  color: white;
+}
